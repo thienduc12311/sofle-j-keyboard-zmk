@@ -22,7 +22,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: nice-view-gem
-      remote: m165437
+      remote: thienduc12311
       revision: main
   self:
     path: boards
